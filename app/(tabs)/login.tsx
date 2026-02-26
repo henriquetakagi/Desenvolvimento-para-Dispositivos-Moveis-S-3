@@ -9,7 +9,7 @@ import {
 export default function LoginScreen(){
   return(
     <View style={styles.container}>
-      <Text style={styles.title}>Tela de Login</Text>
+      <Text style={styles.title}>Área Restrita</Text>
       <TextInput style={styles.input}
       
       />
@@ -17,7 +17,7 @@ export default function LoginScreen(){
       
       />
       <TouchableOpacity style={styles.button}>
-        <Text style={styles.title}>Login</Text>
+        <Text style={styles.title}>Entrar</Text>
       </TouchableOpacity>
     </View>
   );
