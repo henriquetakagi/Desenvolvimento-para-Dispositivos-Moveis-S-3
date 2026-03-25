@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "adst1",
-    "slug": "adst1",
+    "name": "aula2",
+    "slug": "aula2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "adst1",
+    "scheme": "aula2",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
